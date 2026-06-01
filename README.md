@@ -201,12 +201,6 @@ bilibili-digest/
 
 ---
 
-## 许可证
-
-MIT
-
----
-
 ## 相关链接
 
 - 仓库：[github.com/lll888666/bilibili-digest](https://github.com/lll888666/bilibili-digest)
