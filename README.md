@@ -86,7 +86,7 @@ bash scripts/extract.sh "https://www.bilibili.com/video/BVxxx"
 将本仓库放到 Cursor skills 目录，或在项目中引用 `SKILL.md`：
 
 ```bash
-git clone https://github.com/linchengyu/bilibili-digest.git ~/.cursor/skills/bilibili-digest
+git clone https://github.com/lll888666/bilibili-digest.git ~/.cursor/skills/bilibili-digest
 ```
 
 在 Cursor 中发送 B 站链接或说「消化这个 B 站视频」，Agent 会按 [SKILL.md](SKILL.md) 工作流执行。
