@@ -1,0 +1,12 @@
+# bilibili-digest Python dependencies (Python >= 3.10)
+# One-shot install: pip install -r scripts/requirements.txt
+# Or: bash scripts/setup.sh
+#
+# Do NOT auto-generate with pipreqs — import names (bili_cli) != PyPI names (bilibili-cli).
+
+# B站 CLI：bili 命令、字幕/评论/音频下载
+# 同时提供 fetch_subtitle.py 所需的 bili_cli / bilibili_api / aiohttp / av
+bilibili-cli[audio]>=0.6.2
+
+# 本地 ASR 转录（transcribe.py，无 API Key）
+faster-whisper>=1.2.1
